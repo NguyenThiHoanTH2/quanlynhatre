@@ -1,0 +1,43 @@
+.container-fluid{
+    background-color: white;
+    border: 1px solid cornflowerblue;
+}
+#logo{
+    width: 200px;
+    height: 100px;
+}
+.col-md-10{
+    text-align: center;
+    position: static;
+    top: 40px;
+}
+.dropdown:hover .dropdown-menu {
+    display: block;
+    text-align: center;
+    color: rgb(241, 10, 10);
+}
+#dangnhap{
+    position: absolute;
+    right: 35%;
+    border: 2px solid blue;
+    width: 400px;
+    height: 260px;
+    text-align: center;
+    background-color: #9FCBE9;
+}
+#dn{
+    color: #ED0D0D;
+    font-size: 20px;
+}
+#icon_gop_y{
+    position: fixed;
+    top: 500px;
+    right: 15px;
+    font-size: 40px;
+    color: blue;
+
+}
+/* #slide #anh1{
+    width: 20000px;
+    height: 500px;
+} */
